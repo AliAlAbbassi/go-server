@@ -4,7 +4,7 @@ import (
 	"container/list"
 	"database/sql"
 
-	"github.com/lakshanwd/go-crud/db"
+	"github.com/alialabbassi/go-server/db"
 )
 
 //Repo - abstract repository interface
